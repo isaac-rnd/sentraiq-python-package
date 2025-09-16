@@ -1,0 +1,4 @@
+# ignore the sentraiq venv folder
+sentraiq/
+dist/
+sentraiq_core.egg-info/
